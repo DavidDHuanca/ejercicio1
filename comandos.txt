@@ -1,0 +1,12 @@
+link repositorio github https://github.com/DavidDHuanca/ejercicio1
+
+cd #moverse entre carpetas
+ls #lista de archivos en la carpeta
+sudo #permisos de administrador
+mkdir #crear carpeta
+echo .bashrd #
+nano #escribir un archivo en comando
+cat #leer un archivo en comando
+gedit #editar archivo
+touch #crear archivo
+
